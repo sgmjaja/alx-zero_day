@@ -1,0 +1,1 @@
+This project is focused on setting up and running linux on a virtual machine.
